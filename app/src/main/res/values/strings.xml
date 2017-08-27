@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_work_out">WorkOut</string>
+    <string name="splashimage">splashImage</string>
+    <string name="workout_description">workout_description</string>
+    <string name="show_status">show_status</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="start">Start</string>
+    <string name="seconds_rem">seconds remaining:</string>
+    <string name="done">done!</string>
+    <string name="offline">your are offline...</string>
+</resources>
